@@ -1,0 +1,146 @@
+[
+    {
+      "Jugador": "Juan",
+      "Votos": {
+        "Larreta": 13,
+        "Bullrich": 29,
+        "Massa": 24.5,
+        "Grabois": 7,
+        "Milei": 22,
+        "FIT": 3,
+        "Otros": 1.5
+      }
+    },
+    {
+      "Jugador": "Dimas",
+      "Votos": {
+        "Larreta": 21,
+        "Bullrich": 26,
+        "Massa": 23,
+        "Grabois": 5,
+        "Milei": 19,
+        "FIT": 0,
+        "Otros": 6
+      }
+    },
+    {
+      "Jugador": "Seba O",
+      "Votos": {
+        "Larreta": 25,
+        "Bullrich": 18,
+        "Massa": 20,
+        "Grabois": 4,
+        "Milei": 20,
+        "FIT": 3,
+        "Otros": 10
+      }
+    },
+    {
+      "Jugador": "Max",
+      "Votos": {
+        "Larreta": 19,
+        "Bullrich": 16.5,
+        "Massa": 25,
+        "Grabois": 7,
+        "Milei": 22.5,
+        "FIT": 3,
+        "Otros": 7
+      }
+    },
+    {
+      "Jugador": "Pablo",
+      "Votos": {
+        "Larreta": 16,
+        "Bullrich": 20,
+        "Massa": 26,
+        "Grabois": 8,
+        "Milei": 18,
+        "FIT": 3,
+        "Otros": 9
+      }
+    },
+    {
+      "Jugador": "Tobi",
+      "Votos": {
+        "Larreta": 19,
+        "Bullrich": 17,
+        "Massa": 25,
+        "Grabois": 8,
+        "Milei": 20,
+        "FIT": 4,
+        "Otros": 7
+      }
+    },
+    {
+      "Jugador": "Seba S",
+      "Votos": {
+        "Larreta": 16,
+        "Bullrich": 23,
+        "Massa": 26,
+        "Grabois": 6,
+        "Milei": 17,
+        "FIT": 2.5,
+        "Otros": 9.5
+      }
+    },
+    {
+      "Jugador": "Guido",
+      "Votos": {
+        "Larreta": 24,
+        "Bullrich": 19,
+        "Massa": 24,
+        "Grabois": 4,
+        "Milei": 18,
+        "FIT": 2.5,
+        "Otros": 8.5
+      }
+    },
+    {
+      "Jugador": "Mati",
+      "Votos": {
+        "Larreta": 19,
+        "Bullrich": 19,
+        "Massa": 26,
+        "Grabois": 9,
+        "Milei": 17,
+        "FIT": 5,
+        "Otros": 5
+      }
+    },
+    {
+      "Jugador": "David",
+      "Votos": {
+        "Larreta": 14,
+        "Bullrich": 25,
+        "Massa": 33,
+        "Grabois": 5,
+        "Milei": 20,
+        "FIT": 2,
+        "Otros": 1
+      }
+    },
+    {
+      "Jugador": "Nico",
+      "Votos": {
+        "Larreta": 19,
+        "Bullrich": 18,
+        "Massa": 25.5,
+        "Grabois": 10.5,
+        "Milei": 17.5,
+        "FIT": 4.5,
+        "Otros": 5
+      }
+    },
+    {
+      "Jugador": "Gabi",
+      "Votos": {
+        "Larreta": 20,
+        "Bullrich": 18,
+        "Massa": 28,
+        "Grabois": 6,
+        "Milei": 16,
+        "FIT": 3,
+        "Otros": 9
+      }
+    }
+  ]
